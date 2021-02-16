@@ -44,7 +44,7 @@ pages:
   - 'Penulisan Unsur Serapan': 'unsur-serapan/index.md'
 theme: 'material'
 repo_name: 'GitHub'
-repo_url: 'https://github.com/Nefomemes/'
+repo_url: 'https://github.com/Nefomemes/puebi'
 google_analytics: 
 markdown_extensions:
   - admonition
